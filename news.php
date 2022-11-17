@@ -88,7 +88,7 @@ $conx = mysqli_connect("localhost","geomartins","sunday19#", "vokeseel");	//Xper
   <div class="container">
     <div class="navbar p-0 navbar-expand-lg">
       <div class="navbar-brand">
-        <a class="logo-default" href="index.html"><img alt="" src="images\logox.jpg" class='main-logo'></a>
+        <a class="logo-default" href="index.html"><img alt="" src="images\logo1.jpg" class='main-logo'></a>
       </div>
       <span aria-expanded="false" class="navbar-toggler ml-auto collapsed" data-target="#ec-nav__collapsible" data-toggle="collapse">
         <div class="hamburger hamburger--spin js-hamburger">
