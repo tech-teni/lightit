@@ -134,7 +134,6 @@ $conx = mysqli_connect("localhost","geomartins","sunday19#", "vokeseel");	//Xper
                     <a class="nav-link__list" href="academics.html#primary"> PRIMARY</a>
                   </li>
                   <li>
-                    <a class="nav-link__list" href="academics.html#secondary"> SECONDARY</a>
                   </li>
 
                   </ul>

@@ -19,9 +19,27 @@ margin-left: 10px;
 
 .mission div h1{
 text-align: center;	}
+
+.word-container{
+	margin-bottom: 20px;
+	background-color: #fff;
+	padding: 25px 20px;
+	border-radius: 10px;
+}
+
+.headings{
+	font-size: 4em !important;
+	font-weight: bolder;
+	color: white !important;
+}
 @media screen and (max-width: 600px){
 	.mission{
 		display: flex;
 
 flex-direction: column;	}
+.headings{
+	font-size: 1.5em !important;
+	font-weight: bolder;
 }
+}
+
